@@ -1,4 +1,4 @@
-this_year = 2024
+this_year = 2025
 
 start_year = 2010
 end_year = 2026
